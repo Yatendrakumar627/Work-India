@@ -1,0 +1,13 @@
+.job-list {
+  padding: 2rem;
+}
+
+.job-item {
+  margin-bottom: 1rem;
+}
+
+.view-details {
+  margin-top: 1rem;
+  color: blue;
+  text-decoration: underline;
+}

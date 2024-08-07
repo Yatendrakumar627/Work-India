@@ -1,0 +1,11 @@
+.create-job-form {
+  padding: 2rem;
+}
+
+.create-job-form .MuiTextField-root {
+  margin-bottom: 1rem;
+}
+
+.create-job-form button {
+  margin-top: 1rem;
+}

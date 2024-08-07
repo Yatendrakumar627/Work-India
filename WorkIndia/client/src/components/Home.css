@@ -1,0 +1,22 @@
+.home-container {
+  text-align: center;
+  padding: 2rem;
+}
+
+.banner {
+  background-color: #f7f7f7;
+  padding: 2rem;
+  margin-bottom: 2rem;
+}
+
+.banner h2 {
+  margin-bottom: 1rem;
+}
+
+.banner h6 {
+  margin-bottom: 1rem;
+}
+
+.banner button {
+  margin-top: 1rem;
+}

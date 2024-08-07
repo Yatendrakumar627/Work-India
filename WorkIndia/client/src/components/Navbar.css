@@ -1,0 +1,12 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar-logo {
+  flex-grow: 1;
+}
+
+.nav-menu button {
+  margin-left: 1rem;
+}
